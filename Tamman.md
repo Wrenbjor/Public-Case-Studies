@@ -18,7 +18,7 @@ That's what I was hired to do.
 
 ## The Team
 
-When I arrived, the team was 6 developers and 1 QA. The lead dev, Joe Wollard, was already burnt out — one foot out the door. I supported him, pushed back against Mike's outdated approaches alongside him, but I was really just delaying his exit. I think he wanted to make sure the team would be in good hands before he left.
+When I arrived, the team was 6 developers and 1 QA. The lead dev, Joe, was already burnt out — one foot out the door. I supported him, pushed back against Mike's outdated approaches alongside him, but I was really just delaying his exit. I think he wanted to make sure the team would be in good hands before he left.
 
 When Joe moved on, I brought in a senior developer who'd followed me from Comcast to ReminderMedia to Tamman. The cult continued.
 
@@ -134,11 +134,11 @@ I forced one week of mandatory remote work as a test. Just to prove we could do 
 
 Mike exploded.
 
-"How dare you just allow everyone to be remote? What got dropped?"
+Mike: "How dare you just allow everyone to be remote? What got dropped?"
 
-"Nothing got dropped."
+Me: "Nothing got dropped."
 
-"That's not the point. You waste time on the Flubber thing, you force devs remote... I don't see how we can keep working together."
+Mike: "That's not the point. You waste time on the Flubber thing, you force devs remote... I don't see how we can keep working together."
 
 He let me go.
 
@@ -152,7 +152,7 @@ One of my developers — one of the cult — replied:
 
 "That's the thing you let Wayne go over. He built a sample app he wanted to show you and the bank. We could write one codebase and deploy to web and both mobile platforms."
 
-Mike turned red and ended the meeting.
+Mike turned red and ended the meeting. They never did take advantage of Flutter. My replacement had zero innovation sense and doubled down on ECS. A few years later, ECS decided to trim — Tamman lost 20% of its workforce. The diversification Mike hired me for never happened.
 
 ## Technical Stack Summary
 

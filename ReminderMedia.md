@@ -8,7 +8,7 @@
 
 I was hired to "help lead a software team." What I walked into was a political coup.
 
-My presence was orchestrated to remove the existing VP of IT. Day one came with inherited tension, a dev team of six in a windowless room, and a CEO so toxic he had parked his desk directly outside the dev room to monitor them.
+My presence was orchestrated to remove the existing VP of IT. Day one came with inherited tension, a dev team of six in a windowless room, and a CEO, Steven Acree, so toxic he had parked his desk directly outside the dev room to monitor them.
 
 His first request: install keyloggers to count how many times per day developers were committing code.
 

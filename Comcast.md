@@ -6,7 +6,7 @@
 **Role:** Developer → Platform Architect  
 **Company:** Comcast — CRAN (Cable Regional Area Network) Engineering
 
-I started on the IT helpdesk. Built tools for project managers. When Gary Rhodes came in as the new CRAN Director, he hired me to reverse-engineer Tableau for the data team. After automating that, I got a directive that would change everything:
+I started on the IT helpdesk. Built tools for project managers. When Gary came in as the new CRAN Director, he hired me to reverse-engineer Tableau for the data team. After automating that, I got a directive that would change everything:
 
 **"Go find problems and fix them."**
 
@@ -92,7 +92,7 @@ By the time I left: **60 people** on the platform team.
 
 ## The Kill Shot
 
-Gary Rhodes left in 2012. New director wanted offshore outsourcing.
+Gary left in 2012. New director wanted offshore outsourcing.
 
 Meanwhile, Cisco was selling **Cisco Prime** to Comcast as the enterprise network management solution.
 
