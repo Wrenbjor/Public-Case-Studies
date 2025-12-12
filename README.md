@@ -3,12 +3,13 @@
 Real-world projects. Real problems. Real results.
 
 ## Enterprise Platforms
+
 ### [ReminderMedia](./ReminderMedia.md)
 **$28M digital magazine platform built from scratch**
 
 Walked into a political coup, lost entire dev team in week one, delivered a greenfield platform that generated $28M in year one. 7 microservices, zero-downtime deployment, 15,000 dead tests removed from legacy system.
 
-*2016 | Laravel, Python, Docker, Ansible, October CMS*
+*2016-2018 | Laravel, Python, Docker, Ansible, October CMS*
 
 ---
 
@@ -30,10 +31,29 @@ Built DevOps automation, WCAG 2.1 test suites, and award-winning accessible expe
 
 ---
 
+### [TripAdvisor](./TripAdvisor.md)
+**The "worst idea ever" that Google built two years later**
+
+Migrated legacy article system to StoryBlok, untangled a bureaucratic data pipeline nightmare, and pitched an AI-powered conversational homepage in 2023. They called it the worst idea ever. Google launched the same concept in 2025.
+
+*2022-2023 | React, GraphQL, Java, StoryBlok, PHP*
+
+---
+
+## Startups
+
+### [VINventory](./VINventory.md)
+**Revolutionary auto parts tech buried by bad actors**
+
+Built software for a startup with technology that could reverse-engineer OEM parts lists from any VIN — and exposed regional price manipulation in the auto industry. Discovered I was a pawn in a con. The tech sits idle.
+
+*2020-2022 | Web scraping, VIN-to-OEM mapping, MOTOR integration*
+
+---
+
 ## Coming Soon
 
-- TripAdvisor
-- Current AI-assisted builds
+- Perfect Communications (current)
 
 ---
 
