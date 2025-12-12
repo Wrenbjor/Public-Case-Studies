@@ -21,12 +21,21 @@ Built a system that reduced config error rates from 60% to under 3% across 20,00
 
 ---
 
+### [Tamman](./Tamman.md)
+**Accessibility powerhouse for Bank of America**
+
+Built DevOps automation, WCAG 2.1 test suites, and award-winning accessible experiences for BofA. Paid the price for a CEO who couldn't keep up — three weeks before COVID proved me right.
+
+*2018-2020 | React, GitLab CI, Docker, Ansible, Accessibility*
+
+---
+
 ## Coming Soon
 
 - TripAdvisor
-- Bank of America
 - Current AI-assisted builds
 
 ---
 
 *Wayne Renbjor (Wren.AI) — Solutions Architect, 18+ years*
+[LinkedIn](https://linkedin.com/in/wrenbjor) | [GitHub](https://github.com/wrenbjor) | [Twitter/X](https://x.com/wren_ai) | [Tiktok](https://tiktok.com/@wren.ai)
